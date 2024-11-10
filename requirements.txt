@@ -15,3 +15,5 @@ chromadb==0.4.22
 Pillow
 numpy
 urllib3<2.0
+psycopg2
+pgvector
