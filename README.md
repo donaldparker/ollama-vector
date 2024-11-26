@@ -17,3 +17,12 @@ pip install -r requirements.txt
 ## TODOs
  - [ ] Make API
  - [ ] Containerize Application
+ - [ ] Converstion Chain (ConverstationMemoryBuffer)
+
+
+## Helpful Links
+[Run Huggingfaces GGUF models in Ollama](https://huggingface.co/docs/hub/en/ollama)
+
+[Reddis as a VectorDB](https://cookbook.openai.com/examples/vector_databases/redis/getting-started-with-redis-and-openai)
+
+[IBM Granite](https://ollama.com/blog/ibm-granite)
