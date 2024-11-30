@@ -20,3 +20,4 @@ pgvector
 python-dotenv
 ocrmypdf
 beautifulsoup4
+playwright
